@@ -1,0 +1,4 @@
+package expression.parser;
+
+public interface MyParser extends TripleParser {
+}
